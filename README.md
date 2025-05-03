@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m **Lý Duy Bách**, a Software Engineering student specializing in Java backend and aspiring full-stack developer.  
+I’m **Lý Duy Bách**, a Software Engineering student specializing in Java backend and aspiring to be a full-stack developer.  
 🛠️ Tech Stack:
 - Backend: Java, Spring Framework
 - Frontend: React
